@@ -70,9 +70,10 @@ Solution for Dense Array EEG Source Localization." IEEE Transactions on Neural
 Systems 
 and Rehabilitation Engineering 27.2 (2018): 172-178.
 
-The links for the above is 
-https://www.ncbi.nlm.nih.gov/pubmed/30596580           and       
-https://arxiv.org/abs/1812.09506
+The links are 
+1. IEEE - https://ieeexplore.ieee.org/document/8589012
+2. NCBI - https://www.ncbi.nlm.nih.gov/pubmed/30596580                  
+3. ArXiv - https://arxiv.org/abs/1812.09506
 Also, please cite if you had used this code in your research.
 
 If any files are missing or any mistakes, please feel free to inform me at  
