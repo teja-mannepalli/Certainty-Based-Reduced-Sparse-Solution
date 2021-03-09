@@ -118,6 +118,6 @@ for i = 1:size(K,2)
         aa = aa + 1;
     end
 end
-[J] = sLORETA_inv(Kr,phi,[]);
+[J] = J_CARSS;
 
 end
