@@ -2,9 +2,10 @@ clc
 close all;
 clear;
 
-load('grid.mat');
-load('lead_field_matrix.mat');
-load('elec');
+load('K_carss_IITKGP');
+load('grid_IITKGP.mat');
+load('K_IITKGP_ft.mat');
+load('elec_IITKGP');
 
 %%
 [Ds] = find_Ds(grid);
